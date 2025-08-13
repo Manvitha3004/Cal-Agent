@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+motor
+python-socketio[asyncio]
+pydantic
+python-jose[cryptography]
+httpx
+python-dotenv
